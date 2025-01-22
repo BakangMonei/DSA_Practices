@@ -6,9 +6,9 @@ package Arrays.Tut1_TheFibonacciNumberAlgorithm;
  */
 
 /* Finding The nth Fibonacci Number Using Recursion
- To find the nth Fibonacci number we can write code based on the mathematic formula for Fibonacci number n:
-     F(n) = F(n − 1) + F(n − 2)
-     This just means that for example the 10th Fibonacci number is the sum of the 9th and 8th Fibonacci numbers.
+     - To find the nth Fibonacci number we can write code based on the mathematic formula for Fibonacci number n:
+         F(n) = F(n − 1) + F(n − 2)
+     - This just means that for example the 10th Fibonacci number is the sum of the 9th and 8th Fibonacci numbers.
  */
 
 public class Main3 {

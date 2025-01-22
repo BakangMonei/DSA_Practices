@@ -6,23 +6,22 @@ package Arrays.Tut6_DSA_Quicksort;
  */
 
 /* Quicksort
-    As the name suggests, Quicksort is one of the fastest sorting algorithms.
-    The Quicksort algorithm takes an array of values, chooses one of the values as the 'pivot' element,
-    and moves the other values so that lower values are on the left of the pivot element, and higher values are on the right of it.
+    - As the name suggests, Quicksort is one of the fastest sorting algorithms.
+    - The Quicksort algorithm takes an array of values, chooses one of the values as the 'pivot' element, and moves the other values so that lower values are on the left of the pivot element, and higher values are on the right of it.
 */
 
 /* How it works:
-    Choose a value in the array to be the pivot element.
-    Order the rest of the array so that lower values than the pivot element are on the left, and higher values are on the right.
-    Swap the pivot element with the first element of the higher values so that the pivot element lands in between the lower and higher values.
-    Do the same operations (recursively) for the sub-arrays on the left and right side of the pivot element.
+    - Choose a value in the array to be the pivot element.
+    - Order the rest of the array so that lower values than the pivot element are on the left, and higher values are on the right.
+    - Swap the pivot element with the first element of the higher values so that the pivot element lands in between the lower and higher values.
+    - Do the same operations (recursively) for the sub-arrays on the left and right side of the pivot element.
 */
 
 /* Implementation
     To implement the Quicksort algorithm in a programming language, we need:
-        An array with values to sort.
-        A quickSort method that calls itself (recursion) if the sub-array has a size larger than 1.
-        A partition method that receives a sub-array, moves values around, swaps the pivot element into the sub-array and returns the index where the next split in sub-arrays happens.
+        - An array with values to sort.
+        - A quickSort method that calls itself (recursion) if the sub-array has a size larger than 1.
+        - A partition method that receives a sub-array, moves values around, swaps the pivot element into the sub-array and returns the index where the next split in sub-arrays happens.
 
     The resulting code looks like this:
 */
