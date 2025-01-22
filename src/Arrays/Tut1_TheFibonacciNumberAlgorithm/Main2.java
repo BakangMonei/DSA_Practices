@@ -1,4 +1,9 @@
 package Arrays.Tut1_TheFibonacciNumberAlgorithm;
+/*
+  @Author: Monei Bakang
+ * @Date: 21 January 2025
+ * @Time: 2355 hours
+ */
 
 /* Implementation Using "Recursion" is when a function calls itself.
     To implement the Fibonacci algorithm we need most of the same things as in the code example above,but we need to replace the for loop with recursion.
@@ -7,11 +12,6 @@ package Arrays.Tut1_TheFibonacciNumberAlgorithm;
         Fibonacci number as long as the produced number of Fibonacci numbers is below, or equal to, 19.
 */
 
-/*
-  @Author: Monei Bakang
- * @Date: 21 January 2025
- * @Time: 2355 hours
- */
 
 import java.util.Scanner;
 

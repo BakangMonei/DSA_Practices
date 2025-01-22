@@ -1,5 +1,9 @@
 package Arrays.Tut1_TheFibonacciNumberAlgorithm;
-
+/*
+ * @Author: Monei Bakang
+ * @Date: 21 January 2025
+ * @Time: 2350 hours
+ */
 
 import java.util.*;
 /*Implementation Using a "FOR LOOP"
@@ -11,12 +15,6 @@ import java.util.*;
         Update the variables that hold the previous two fibonacci numbers
 */
 
-
-/*
- * @Author: Monei Bakang
- * @Date: 21 January 2025
- * @Time: 2350 hours
- */
 
 public class Main {
     public static void main(String[] args) {
