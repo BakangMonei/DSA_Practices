@@ -1,4 +1,9 @@
 package Lesson5_DSA_Trees.Tut3_DSA_ArrayImplementation;
+/*
+ @Author: Monei Bakang
+ @Date: 27 January 2025
+ @Time: 0357 hours
+ */
 
 /* Array Implementation of Binary Trees
     To avoid the cost of all the shifts in memory that we get from using Arrays, it is useful to implement Binary Trees with pointers from one element to the next, just like Binary Trees are implemented before this point, especially when the Binary Tree is modified often.

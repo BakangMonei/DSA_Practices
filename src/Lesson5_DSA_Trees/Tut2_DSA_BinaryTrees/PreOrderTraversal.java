@@ -1,5 +1,9 @@
 package Lesson5_DSA_Trees.Tut2_DSA_BinaryTrees;
-
+/*
+ @Author: Monei Bakang
+ @Date: 27 January 2025
+ @Time: 0357 hours
+ */
 /* Pre-order Traversal of Binary Trees
     Pre-order Traversal is a type of Depth First Search, where each node is visited in a certain order.
     Pre-order Traversal is done by visiting the root node first, then recursively do a pre-order traversal of the left subtree, followed by a recursive pre-order traversal of the right subtree. It's used for creating a copy of the tree, prefix notation of an expression tree, etc.

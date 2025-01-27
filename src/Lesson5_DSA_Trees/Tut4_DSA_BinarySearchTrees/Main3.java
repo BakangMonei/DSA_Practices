@@ -1,5 +1,9 @@
 package Lesson5_DSA_Trees.Tut4_DSA_BinarySearchTrees;
-
+/*
+ @Author: Monei Bakang
+ @Date: 27 January 2025
+ @Time: 0357 hours
+ */
 /* Insert a Node in a BST
     Inserting a node in a BST is similar to searching for a value.
 

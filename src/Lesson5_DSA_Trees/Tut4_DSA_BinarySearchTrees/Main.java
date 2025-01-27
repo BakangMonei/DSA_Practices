@@ -1,5 +1,9 @@
 package Lesson5_DSA_Trees.Tut4_DSA_BinarySearchTrees;
-
+/*
+ @Author: Monei Bakang
+ @Date: 27 January 2025
+ @Time: 0357 hours
+ */
 /* A Binary Search Tree is a Binary Tree where every node's left child has a lower value, and every node's right child has a higher value.
     A clear advantage with Binary Search Trees is that operations like search, delete, and insert are fast and done without having to shift values in memory.
 */

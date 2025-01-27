@@ -1,5 +1,9 @@
 package Lesson5_DSA_Trees.Tut4_DSA_BinarySearchTrees;
-
+/*
+ @Author: Monei Bakang
+ @Date: 27 January 2025
+ @Time: 0357 hours
+ */
 /* Search for a Value in a BST
     - Searching for a value in a BST is very similar to how we found a value using Binary Search on an array.
     - For Binary Search to work, the array must be sorted already, and searching for a value in an array can then be done really fast.

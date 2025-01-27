@@ -1,6 +1,10 @@
 package Lesson5_DSA_Trees.Tut2_DSA_BinaryTrees;
 
-
+/*
+ @Author: Monei Bakang
+ @Date: 27 January 2025
+ @Time: 0357 hours
+ */
 /* Binary Trees
     A Binary Tree is a type of tree data structure where each node can have a maximum of two child nodes, a left child node and a right child node.
     This restriction, that a node can have a maximum of two child nodes, gives us many benefits:
