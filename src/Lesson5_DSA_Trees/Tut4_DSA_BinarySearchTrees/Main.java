@@ -29,8 +29,7 @@ public class Main {
 
     public static class TreeNode {
         int data;
-        TreeNode left;
-        TreeNode right;
+        TreeNode left, right;
 
         TreeNode(int data) {
             this.data = data;

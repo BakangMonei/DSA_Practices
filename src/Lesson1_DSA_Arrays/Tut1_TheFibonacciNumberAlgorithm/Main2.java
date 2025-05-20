@@ -12,7 +12,7 @@ package Lesson1_DSA_Arrays.Tut1_TheFibonacciNumberAlgorithm;
 */
 
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Main2 {
     static int count = 2;
