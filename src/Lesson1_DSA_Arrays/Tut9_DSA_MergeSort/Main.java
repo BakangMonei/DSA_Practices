@@ -30,7 +30,7 @@ package Lesson1_DSA_Arrays.Tut9_DSA_MergeSort;
     The resulting code looks like this:
 */
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
